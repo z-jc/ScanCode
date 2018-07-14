@@ -1,0 +1,4 @@
+include ':app', ':zbarlibar', ':zxinglibs', ':ble'
+project(':zbarlibar').projectDir = new File('zbarlibary')
+project(':zxinglibs').projectDir = new File('zxinglib')
+project(':ble').projectDir = new File('ble_c')

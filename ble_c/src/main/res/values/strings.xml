@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">蓝牙客户端</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hint">"说点什么吧"</string>
+    <string name="disconnect">"断开"</string>
+    <string name="send">"发送"</string>
+
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">蓝牙服务端</string>
+    <string name="save_picture">保存图片</string>
+    <string name="save_picture_failed">保存失败</string>
+    <string name="save_picture_success">图片成功保存至%s</string>
+</resources>
